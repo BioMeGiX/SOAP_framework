@@ -1,0 +1,17 @@
+Diagnoses and all orders for this visit:
+ 
+Chronic thoracic back pain, unspecified back pain laterality
+- Chronic history of back pain.
+- Likely significant component of psychosomatic pain given lack of objective findings on physical examination as well as prior imaging (CT in 2015).
+- Will evaluate with Xray for possible bony lesion in lower thoracic spine given point tenderness over T10 spinous process. 
+Orders:
+-     Thoracic spine 2 views lumbar spine 2 views MSK
+-     Ambulatory referral to Physical Therapy
+ 
+Cerebral aneurysm without rupture
+- Patient reports extensive family history of cerebral aneurysms, many with rupture and some passing from this including her father.
+- Incidental 2mm aneurysm on MRI approximately 18 months ago.  Seen by Dr. Kole in Neurosurgery.
+- Given persistent symptoms, will repeat MRI/MRA as per Dr. Kole's recommendation.
+- Will follow up with Dr. Kole following MRI/MRA.
+Orders:
+-     MRA head with and without contrast

@@ -1,0 +1,6 @@
+ED COURSE:
+MDM
+Number of Diagnoses or Management Options
+Epistaxis: established and worsening
+Right internal carotid artery aneurysm: established and worsening
+Diagnosis management comments: Patient to receive MRA head with contrast. Procedure delayed as radiology needed to confirm that aneursym coil make/model is compatible with MRI machine. Note writer found coil specifications under "Patient Images > XA Vessels 04//2014 > Report > Materials Utilized" which confirms that coil is indeed appropriate for MRA. Neurosurgery consulted and are aware of patient. If abnormal MRA, then neurosurgery likely to admit. If negative MRA, then ENT to be consulted. No active bleeding or neurologic symptoms at this time. Sign out given to Jessica Everett, MD.

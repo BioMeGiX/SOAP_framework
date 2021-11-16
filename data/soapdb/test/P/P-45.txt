@@ -1,0 +1,146 @@
+PLAN:
+Patient Instructions
+ 
+ 
+Your Medication List
+ 
+START taking these medications 
+ 	 	Instructions
+ 	
+acetaminophen 325 MG tablet
+Refills:  0
+Commonly known as:  TYLENOL
+ 
+	
+Take 2 tablets (650 mg total) by mouth every 4 (four) hours as needed.
+
+ 	
+senna-docusate 8.6-50 mg per tablet
+Refills:  0
+Commonly known as:  SENOKOT-S
+ 
+	
+Take 1 tablet by mouth 2 (two) times daily.
+
+ 
+CHANGE how you take these medications 
+ 	 	Instructions
+ 	
+clopidogrel 75 mg tablet
+Refills:  0
+Commonly known as:  PLAVIX
+Start taking on:  10/X/2017
+What changed:  when to take this
+ 
+	
+Take 1 tablet (75 mg total) by mouth every other day.
+
+ 
+CONTINUE taking these medications 
+ 	 	Instructions
+ 	
+aspirin 81 MG EC tablet
+Quantity:  60 tablet
+Refills:  3
+ 
+	
+Take 1 tablet (81 mg total) by mouth daily.
+
+ 	
+atenolol 50 MG tablet
+Quantity:  90 tablet
+Refills:  2
+Commonly known as:  TENORMIN
+ 
+	
+Take 1 tablet (50 mg total) by mouth daily.
+
+ 	
+buprenorphine-naloxone 8-2 mg Film SL film
+Quantity:  63 each
+Refills:  0
+For diagnoses:  Opioid use disorder, severe, on maintenance therapy, dependence
+Doctor's comments:  NADEAN: narcotic addiction DEA # XB 364 4932 This prescription was sent electronically from the Henry Ford Health System in accordance with DEA rules for EPCS and using approved two factor authentication.
+Commonly known as:  SUBOXONE
+ 
+	
+One strip under tongue in the morning and half strip in the evening.6 week prescription
+
+ 	
+escitalopram oxalate 5 MG tablet
+Quantity:  30 tablet
+Refills:  2
+For diagnoses:  Mood problem
+Commonly known as:  LEXAPRO
+ 
+	
+Take 1 tablet (5 mg total) by mouth every morning.
+
+ 	
+nicotine 14 mg/24 hr
+Quantity:  30 patch
+Refills:  0
+For diagnoses:  Current tobacco use
+Commonly known as:  NICODERM CQ
+ 
+	
+Place 1 patch onto the skin daily.
+
+ 	
+polyethylene glycol 17 gram packet
+Quantity:  30 each
+Refills:  0
+For diagnoses:  Constipation
+Commonly known as:  MIRALAX
+ 
+	
+Take 17 g by mouth daily.
+
+ 	
+potassium chloride 10 MEQ CR tablet
+Quantity:  30 tablet
+Refills:  3
+Commonly known as:  KLOR-CON
+ 
+	
+Take 1 tablet (10 mEq total) by mouth daily.
+
+ 	
+triamterene-hydroCHLOROthiazide 37.5-25 mg per tablet
+Quantity:  90 tablet
+Refills:  0
+Doctor's comments:  An appointment and blood work need to be completed before further refills.
+Commonly known as:  MAXZIDE-25
+ 
+	
+Take 1 tablet by mouth daily.  An appointment and blood work need to be completed before further refills.
+
+ 	
+valACYclovir 1000 MG tablet
+Quantity:  20 tablet
+Refills:  0
+Commonly known as:  VALTREX
+ 
+	
+Take 2 tablets (2,000 mg total) by mouth every 12 (twelve) hours.  For 1 day as needed
+
+		
+ 
+		
+ 
+Where to Get Your Medications
+ 
+		
+You can get these medications from any pharmacy 
+		
+ 	You don't need a prescription for these medications	
+ 	
+•	acetaminophen 325 MG tablet
+•	senna-docusate 8.6-50 mg per tablet
+	
+
+
+
+
+ 
+ 

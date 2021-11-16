@@ -1,0 +1,1 @@
+ dictDefaultMessage: "<strong>Or drag and drop image here </strong> <br /><h1 id='upload-image'><i class='fa fa-file-image-o'></i> </h1>",

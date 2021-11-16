@@ -1,0 +1,15 @@
+
+ 
+PHYSICAL EXAMINATION:
+ 
+		
+Visit Vitals
+•	BP	120/70 (BP Location: Left upper arm, Patient Position: Sitting, Cuff Size: 4 - Adult)
+•	Pulse	(!) 56
+•	Temp	36.6 °C (97.9 °F)
+•	Ht	1.6 m (5' 3")
+•	Wt	81.2 kg (179 lb)
+•	BMI	31.71 kg/m2
+ Estimated body mass index is 31.71 kg/(m^2) as calculated from the following:
+  Height as of this encounter: 1.6 m (5' 3").
+  Weight as of this encounter: 81.2 kg (179 lb).

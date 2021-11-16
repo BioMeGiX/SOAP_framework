@@ -1,0 +1,52 @@
+INTERVAL HISTORY :
+
+Today we had the opportunity to see XXXX   in neurosurgery clinic.  As you know she is a 74 y.o. 
+female who presents with YYYY CTA revealing 4 mm wide necked fusiform aneurysmal dilatation at the Anterior communicating artery with dominant left A1.  
+The patient has long history of schizophrenia and dementia and currently lives with her son.  She had frequent falls that led to the CTA examination.  
+She denies stroke, seizure or SAH. She denies FMH for aneurysm and is a nonsmoker.
+
+ 
+			
+PAST MEDICAL HISTORY :
+Diagnosis	Date
+•	Psychiatric problem	 
+•	Hypertension	 
+•	Anxiety	 
+•	Depression	 
+•	Obesity	 
+•	Headache(784.0)	 
+ 	 	patient reports falling and some headaches around where she hit her head
+•	Poor sleep pattern	 
+ 	 	too much sleeping
+•	Aneurysm (CMS-hcc)	 
+ 
+ 
+ 
+			
+PAST SURGICAL HISTORY:
+Procedure	Laterality	Date
+•	Hymenectomy	 	 
+•	Hysterectomy	 	 
+ 
+ 
+ 
+ 
+ 
+No Known Allergies
+ 
+ 
+ reports that she has been passively smoking.  She has never used smokeless tobacco. She reports that she does not drink alcohol or use illicit drugs.
+ 
+Vitals 
+
+	
+FILED VITALS:
+ 	06/X/15 0839
+BP:	133/78
+Pulse:	75
+Temp:	36.9 °C (98.4 °F)
+TempSrc:	Oral
+Resp:	14
+Height:	1.626 m (5' 4")
+Weight:	78.019 kg (172 lb)
+

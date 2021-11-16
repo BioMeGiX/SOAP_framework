@@ -1,0 +1,77 @@
+	
+GENERAL PHYSICAL EXAMINATION:
+
+ VITALS :
+ Heart Rate:  [89-99] 98
+Resp:  [17-28] 17
+SpO2:  [97 %-99 %] 97 %
+BP: (155-182)/(66-103) 182/91 mmHg 
+
+ GENERAL APPEARANCE :
+ Lying in ER stretcher, in no acute distress, producing 
+secretions 
+
+ CARDIOVASCULAR
+ Heart: regular
+
+ RESPIRATORY
+ Lungs: non-labored 
+ 
+ NEUROLOGIC :
+ GCS 11 (Motor 6, Verbal 2, Eyes 3)
+ Mental status: awake, following commands with prompting. 
+Expressive more than receptive aphasia.
+ Cranial nerves: pupils equal, round and reactive to light, 
+unable to assess visual fields, extraocular movements intact, 
+sensation intact in V1-V3  bilaterally, face symmetric, hearing 
+grossly intact, soft palate and uvula midline, shoulder shrug 5/5 
+bilaterally, tongue protrudes midline
+ Motor strength (right/left): 
+ Upper Extremities:   4/4
+            Lower Extremities:   4/4
+ No pronator drift or parietal wander 
+ Muscle Tone: normal
+ Sensation: intact light touch, pinprick and proprioception in 
+all four extremities
+ Deep tendon reflexes (right/left):
+  Biceps            2+/2+
+  Triceps                 2+/2+
+  Brachioradialis          2+/2+
+  Patellar                2+/2+
+  Ankle                        1+/1+     
+ Pathological reflexes:  Babinski negative
+     Hoffmann's negative
+     Clonus negative
+ Cerebellar: unable to assess
+ Gait: deferred
+
+
+DIAGNOSTIC TESTS :
+LABS
+Lab Results 
+Component Value Date 
+ CREATININE 1.69* 11/2014 
+  
+
+Lab Results :
+Component Value Date 
+ WBC 8.8 11/2014 
+ HGB 9.7* 11/2014 
+ HCT 28.8* 11/2014 
+ PLT 252 11/2014 
+
+No results found for this basename: APTT 
+
+Lab Results 
+Component Value Date 
+ INR 1.12 11/2014 
+
+
+IMAGING :
+Impression: 
+1. Acute bilateral diffuse subarachnoid bleed. Findings may 
+relate to 
+rupture of known aneurysm of the left P-comm. 
+2. Dilation of the lateral ventricles suggests developing 
+obstructive 
+hydrocephalus.
