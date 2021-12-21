@@ -30,7 +30,7 @@ from sklearn.feature_extraction.text import TfidfTransformer
 from sklearn.naive_bayes import MultinomialNB
 
 import numpy as np
-
+from text_preprocesssing import  normalize_corpus
 
 max_seq_length = 128  # Your choice here.
 input_word_ids = tf.keras.layers.Input(shape=(max_seq_length,), dtype=tf.int32,
@@ -79,9 +79,6 @@ def load_csv_dataset():
     return ((train_texts, train_labels), (val_texts, val_labels), target_names)
 
 
-((train_texts, train_labels), (val_texts,val_labels),target_names) = load_csv_dataset()
-
-
 def vectorize_by_sequence(train_texts, val_texts):
     tokenizer = text.Tokenizer(num_words=topk)
     tokenizer.fit_on_texts(train_texts)
@@ -116,6 +113,53 @@ def bert_tokenizer(texts):
     token_ids = tokenizer.convert_tokens_to_ids(tokens)
 
     return token_ids
+
+
+def convert_to_tensor(train_texts, val_texts):
+    x_train = tf.convert_to_tensor(train_texts, dtype=tf.string)
+    x_val = tf.convert_to_tensor(val_texts, dtype=tf.string)
+    return x_train, x_val
+
+
+def bert_tokenizer(texts):
+    FullTokenizer = bert.bert_tokenization.FullTokenizer
+    vocab_file = bert_layer.resolved_object.vocab_file.asset_path.numpy()
+    do_lower_case = bert_layer.resolved_object.do_lower_case.numpy()
+    tokenizer = FullTokenizer(vocab_file, do_lower_case)
+
+    tokens = tokenizer.tokenize(texts)
+    token_ids = tokenizer.convert_tokens_to_ids(tokens)
+
+    return token_ids
+
+
+
+((train_texts, train_labels), (val_texts,val_labels),target_names) = load_csv_dataset()
+
+normaliz_train_text= normalize_corpus(train_texts)
+normaliz_val_texts=normalize_corpus(val_texts)
+
+x_train, x_val, word_index = vectorize_by_sequence(normaliz_train_text, normaliz_val_texts)
+
+bert_tokenized_train_text = [bert_tokenizer(train_text) for train_text in normaliz_train_text]
+
+num_classes =len(target_names)
+
+input_shape=x_train.shape[1:]
+
+# reserved index 0.
+num_features = min(len(word_index) + 1, topk)
+
+
+if num_classes == 2:
+    loss = 'binary_crossentropy'
+else:
+    loss = 'sparse_categorical_crossentropy'
+optimizer = tf.keras.optimizers.Adam(lr=learning_rate)
+
+
+
+
 
 
 def get_lastlayer_activation_function(num_classes):
@@ -284,19 +328,14 @@ def train_bert_model(model_name):
     MODEL_NAME = model_name
 
     t = ktrain_text.Transformer(MODEL_NAME, maxlen=MAX_SEQUENCE_LENGTH, class_names=target_names)
-    trn = t.preprocess_train(train_texts.to_numpy(), train_labels.to_numpy())
-    val = t.preprocess_test(val_texts.to_numpy(), val_labels.to_numpy())
+    trn = t.preprocess_train(normaliz_train_text.to_numpy(), train_labels.to_numpy())
+    val = t.preprocess_test(normaliz_val_texts.to_numpy(), val_labels.to_numpy())
     model = t.get_classifier()
     learner = ktrain.get_learner(model, train_data=trn, val_data=val, batch_size=batch_size)
 
     learner.fit_onecycle(learning_rate, epochs)
 
     learner.validate(class_names=target_names)
-
-
-
-
-
 
 
 if __name__ == '__main__':
